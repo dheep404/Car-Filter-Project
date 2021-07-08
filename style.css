@@ -1,0 +1,23 @@
+#filters {display:flex;background-color:rgb(62, 62, 189)}
+#filters button{display:block;background-color: #439ea2;color: white;font-family: -webkit-pictograph;font-size: ;margin: 10;}
+
+button {
+    margin: 10px;
+    font-size: 1.2vw;
+    padding: 15px;
+    width: 10vw;
+}
+
+
+h2 {
+    color: white;
+    text-transform: capitalize;
+    font-family: system-ui;
+}
+
+
+
+
+
+div#filters {
+}
